@@ -34,7 +34,7 @@ You can wire all of the component to a breadboard or wire to a arduino proto shi
 
 </p>
 <h1>Upload The Code</h1>
-<p>Open your arduino ide and upload clock_alarm.ino
+<p>Open your <a href="https://www.arduino.cc/en/software">arduino ide</a> and upload clock_alarm.ino
  
  make sure to downlod these libraries first</p>
 <h1>libraries:</h1>
