@@ -1,15 +1,19 @@
 <h1>All In One Clock</h1>
+
 <p>In this project we will make an arduino clock alarm with timer and a temperature sensor.
+ <br>
+  <br>
+<img src="schematics.jpg" width=400 highet=400/>
+  
+  <b>Button #1 Mode</b> - connected to digtal pin 2
 
-Button #1 Mode - connected to digtal pin 2
+  <b>Button #2 Select</b> - connected to digtal pin 4
 
-Button #2 Select - connected to digtal pin 4
+  <b>Button #3 Plus</b> - connected to digtal pin 3
 
-Button #3 Plus - connected to digtal pin 3
+  <b>Button #4 Minus</b> - connected to digtal pin 12
 
-Button #4 Minus - connected to digtal pin 12
-
-Button #5 Timer on/0ff - connected to digtal pin 11
+  <b>Button #5 Timer on/0ff</b> - connected to digtal pin 11
 
 You can wire all of the component to a breadboard or wire to a arduino proto shield if you would like to use the case.
 
@@ -27,4 +31,5 @@ To set time you will need to hold the mode button on screen 1.
 
 <b>RTCLib</b> - https://github.com/adafruit/RTClib
 <br>
-![](images/schematic.png)
+
+<h1>You can find all of the 3d print file in the model folder</h1>
