@@ -1,5 +1,5 @@
 <h1>All In One Clock</h1>
-
+<img src="Clock.jpeg" width=500 highet=500>
 <p>In this project we will make an arduino clock alarm with timer and a temperature sensor.
  <br>
   <br>
@@ -19,6 +19,10 @@ You can wire all of the component to a breadboard or wire to a arduino proto shi
 
 To set time you will need to hold the mode button on screen 1.
 </p>
+<h1>Upload The Code</h1>
+<p>Open your arduino ide and upload clock_alarm.ino
+ 
+ make sure to downlod these libraries first</p>
 <h1>libraries:</h1>
 
 <b>DHT</b> - https://github.com/adafruit/DHT-sensor-library
