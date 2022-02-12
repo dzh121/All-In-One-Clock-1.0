@@ -26,4 +26,5 @@ To set time you will need to hold the mode button on screen 1.
 <b>virtuabotixRTC</b> - https://github.com/chrisfryer78/ArduinoRTClibrary
 
 <b>RTCLib</b> - https://github.com/adafruit/RTClib
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dzh121)](https://github.com/dzh121)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/dzh121)
