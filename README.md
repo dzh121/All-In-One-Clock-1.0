@@ -1,5 +1,4 @@
-#ABOUT THIS PROJECT
-In this project we will make an arduino clock alarm with timer and a temperature sensor.
+<p>In this project we will make an arduino clock alarm with timer and a temperature sensor.</p>
 
 Button #1 Mode - connected to digtal pin 2
 
@@ -15,7 +14,7 @@ You can wire all of the component to a breadboard or wire to a arduino proto shi
 
 To set time you will need to hold the mode button on screen 1.
 
-libraries:
+<h1>libraries:</h1>
 DHT - https://github.com/adafruit/DHT-sensor-library
 
 LiquidCrystal I2C - https://www.arduinolibraries.info/libraries/liquid-crystal-i2-c
