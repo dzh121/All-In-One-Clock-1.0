@@ -28,3 +28,4 @@ To set time you will need to hold the mode button on screen 1.
 <b>RTCLib</b> - https://github.com/adafruit/RTClib
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/dzh121)
+![alt text](https://github.com/dzh121/All-In-One-Clock/schematics.jpg?raw=true)
