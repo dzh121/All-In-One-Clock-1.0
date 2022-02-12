@@ -49,7 +49,7 @@ You can wire all of the component to a breadboard or wire to a arduino proto shi
 
 <b>RTCLib</b> - https://github.com/adafruit/RTClib
 <br>
-<h1> usage</h1>
+<h1>Usage</h1>
 <p>
  <ul>
   <li>Change between screens by pressing mode button</li>
