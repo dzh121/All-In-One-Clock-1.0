@@ -3,7 +3,7 @@
 <p>In this project we will make an arduino clock alarm with timer and a temperature sensor.
  <br>
   <br>
-<img src="schematics.jpg" width=400 highet=400/>
+<img src="schematics/schematics.png" width=400 highet=400/>
   
   <b>Button #1 Mode</b> - connected to digtal pin 2
 
