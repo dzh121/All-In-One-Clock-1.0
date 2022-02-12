@@ -5,16 +5,15 @@
   <br>
  <h1>Components</h1>
  <ul>
-  <li>Arduino UNO</li>
- <li>Arduino Proto Shield</li>
- <li>Real Time Clock</li>
- <li>16x2 Display</li>
- <li>Tactile Switch</li>
- <li>Buzzer</li>
- <li>Breadboard</li>
- <li>BreadBoard wires</li>
- <li>Proto Sheild Wire</li>
- <li>AM2302 DHT22</li>
+ <li><a href="https://store.arduino.cc/products/arduino-uno-rev3/">Arduino UNO</a></li>
+ <li><a href="https://store.arduino.cc/products/proto-shield-rev3-uno-size">Arduino Proto Shield</a></li>
+ <li><a href="https://www.newark.com/maxim-integrated-products/ds1307/real-time-clock-56byte-dip-8/dp/73Y1206?COM=ref_hackster">Real Time Clock</a></li>
+ <li><a href="https://www.dfrobot.com/product-135.html">16x2 Display</a></li>
+ <li><a href="https://www.newark.com/apem/mjtp1230/switch-tactile-spst-50ma-through/dp/19C7994?COM=ref_hackster&CMP=Hackster-NA-project-98bf36-Feb-22">Tactile Switch</a></li>
+ <li><a href="https://www.aliexpress.com/item/4000785325910.html?spm=a2g0o.productlist.0.0.61923f7cS5MI2w&algo_pvid=d52a4127-5191-45e6-bb08-5a729bccddbb&algo_exp_id=d52a4127-5191-45e6-bb08-5a729bccddbb-4&pdp_ext_f=%7B%22sku_id%22%3A%2210000007816863808%22%7D&pdp_pi=-1%3B0.69%3B-1%3B-1%40salePrice%3BUSD%3Bsearch-mainSearch">Buzzer</a></li>
+ <li><a href="https://www.newark.com/multicomp/mcbb400/breadboard-solderless-abs/dp/99W1759?COM=ref_hackster">Breadboard</a></li>
+ <li><a href="https://www.newark.com/stellar-labs/24-14687/kit-contents-eight-25-ft-spools/dp/44AC9034?COM=ref_hackster">Wires</a></li>
+ <li><a href="https://www.aliexpress.com/item/32982744232.html?spm=a2g0o.productlist.0.0.21a165ddT3AtVp&algo_pvid=26acb624-433b-4616-9452-97fdb7d23fa4&algo_exp_id=26acb624-433b-4616-9452-97fdb7d23fa4-6">AM2302 DHT22</a></li>
  </ul>
  <h1>Wiring</h1>
  
