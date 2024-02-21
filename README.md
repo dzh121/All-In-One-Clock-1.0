@@ -60,4 +60,4 @@ You can wire all of the component to a breadboard or wire to a arduino proto shi
 </ul>  
 <h1>More Info</h1>
 <p>You can find all of the 3d print file in the model folder</p>
-<p>Contact me or more info at Arduino Project Hub:https://create.arduino.cc/projecthub/dzh121/all-in-one-clock-6ca214</p>
+<p>Contact me or more info at Arduino Project Hub:https://projecthub.arduino.cc/dzh121/all-in-one-clock-0523b7</p>
